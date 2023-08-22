@@ -1,6 +1,8 @@
-# Quality-in-Times-of-Insanity
+# Quality in-Times-of-Insanity
+
 Quality in Times of Insanity: a Study of Quality Factor Investment Strategies in Stressed Markets
 
+Liam Svoboda's MAster's Thesis
 **Abstract:**
 
 This thesis explores the flight-to-quality phenomenon in financial markets and investigates systematic equity investment strategies using a quality style factor to achieve portfolio resilience and potentially outperform the market during periods of stress. 
